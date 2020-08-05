@@ -1,2 +1,1 @@
-# pao-labs
-PAO labs repository
+# PAO-labs Object oriented programming in JAVA
